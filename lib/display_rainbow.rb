@@ -6,6 +6,6 @@ def display_rainbow(colors)
   print " #{letters[3]}: #{colors[3]},"
   print " #{letters[4]}: #{colors[4]},"
   print " #{letters[5]}: #{colors[5]},"
-  print " #{letters[6]}: #{colors[6]} "
+  print " #{letters[6]}: #{colors[6]}"
 end
   # Write your #display_rainbow method here
